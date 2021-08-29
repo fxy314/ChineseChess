@@ -23,6 +23,7 @@
 
 ## 6.版本更迭
 目前是第一版 0.0.1，尚无新版本。
+[github地址](https://github.com/fxy314/ChineseChess)
 
 ## 7.额外致谢
 GitHub上开源的象棋引擎[佳佳象棋-传统引擎](https://github.com/leedavid/NewGG)，该项目为我们的电脑棋手算法开发提供了理论上的指导。
